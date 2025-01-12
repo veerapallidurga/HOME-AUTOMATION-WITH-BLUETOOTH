@@ -15,3 +15,5 @@ Microcontroller (Arduino/Raspberry Pi): Acts as the central unit for controlling
 Bluetooth Module (HC-05/HC-06): Facilitates Bluetooth communication.
 Relay Module: Controls power to devices.
 App or Bluetooth Terminal: For user interaction, sending control signals to the Bluetooth module.
+#OUTPUT FOR TASK 2
+![Uploading image.png…]()
